@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ionic Framework**
 
-- 💬 Ask me about **React Native , JavaScript**
+- 💬 Ask me about **React Native , Node js, JavaScript, TypeScript**
 
 - 📫 How to reach me **irexspare@gmail.com**
 
