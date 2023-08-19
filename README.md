@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FeedMile App**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Ionic Framework**
 
 - 💬 Ask me about **React Native , JavaScript**
 
