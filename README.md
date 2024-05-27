@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Zafar</h1>
 <h3 align="center">JavaScript Engineer</h3>
 
-- 🔭 I’m currently working on **FeedMile App**
+- 🔭 I’m currently working on **aiWallet App**
 
 - 🌱 I’m currently learning **Ionic Framework**
 
