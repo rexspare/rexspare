@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React Native , Node js, JavaScript, TypeScript**
 
-- 📫 How to reach me **irexspare@gmail.com**
+- 📫 How to reach me **hamzazafarrc@gmail.com**
 
 - 📄 Know about my experiences [PORTFOLIO](https://rexspare.github.io/my-portfolio/)
 
