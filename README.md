@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **irexspare@gmail.com**
 
-- 📄 Know about my experiences [(PORTFOLIO](https://rexspare.github.io/my-portfolio/)
+- 📄 Know about my experiences [PORTFOLIO](https://rexspare.github.io/my-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
