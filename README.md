@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **aiWallet App**
 
-- 🌱 I’m currently learning **Ionic Framework**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **React Native , Node js, JavaScript, TypeScript**
 
